@@ -1,0 +1,38 @@
+div{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body{
+  background-color: lightgreen;
+  font-family: courier new; monospace;
+}
+html, body{
+  height: 100%;
+  margin: 50;
+}
+p{
+  font-family: Helvetica, Arial;
+  margin: 30;
+}
+button{
+  margin: 50px;
+
+}
+.box{
+float:left;
+width: 250px;
+height: 300px;
+margin: 30px 0 0 30px;
+padding: 15px;
+background-color: lightgreen;
+}
+.box-tittle{
+  color: black;
+  font-weight: bold;
+  font-size: 30px;
+}
+.box-info{
+  color: gray;
+  margin: 10px 0 0 0;
+}
